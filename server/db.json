@@ -1,0 +1,84 @@
+{
+  "resto": [
+    {
+      "name": "hena",
+      "Address": null,
+      "email": "henokaddis72@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "henok",
+      "addres": "addis",
+      "email": "henok@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "hena",
+      "addres": "fuck",
+      "email": "henok72@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "yara",
+      "addres": "db",
+      "email": "yara@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "yara",
+      "addres": "db",
+      "email": "yara@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "abel",
+      "addres": "ADDIS",
+      "email": "abela@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "hena",
+      "addres": "1234",
+      "email": "k@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "xxx resto",
+      "addres": "bure",
+      "email": "x@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "henok Restaurent",
+      "addres": "Injibara",
+      "email": "henokAddis72@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "kk",
+      "addres": "addis",
+      "email": "k@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "hena",
+      "addres": "addis",
+      "email": "h@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "yaredo restaurent",
+      "addres": "5killo",
+      "email": "yaredo@gmail.com",
+      "id": 12
+    }
+  ],
+  "users": [
+    {
+      "name": "henok",
+      "password": "1234",
+      "email": "henok@gmail.com",
+      "id": 1
+    }
+  ]
+}
